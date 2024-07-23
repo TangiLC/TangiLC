@@ -10,7 +10,7 @@ I am actively trying to improve my skills in various frameworks and languages.
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TangiLC/)
 ## About me
 
-🎨 Please have a look at my portfolio (tangi.le-cadre.net), 
+🎨 Please have a look at my portfolio [http://tangi.le-cadre.net](http://tangi.le-cadre.net), 
 
 📫 You can also send me a mail [tangi@le-cadre.net](mailto:tangi@le-cadre.net).
 
