@@ -16,5 +16,7 @@ I am currently improving my skills in various frameworks and languages. (back-en
 
 ## 🛠 Skills
 Front : Javascript, Typescript, HTML5, CSS (with Sass and Tailwind).
+
 Back : Java.
+
 DB : mySQL.
